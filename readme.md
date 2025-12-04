@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Header animado -->
-  <img src="https://capsule-render.vercel.app/api?text=¡Hola! Soy Andres&animation=fadeIn&type=waving&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=¡Hey%20👋!%20Soy%20Andrés%20👨🏻‍💻&section=header&textBg=false&stroke=cccccc&strokeWidth=1&fontSize=60&desc=Desarrollador%20Front-End&descAlign=50&descAlignY=65&fontAlignY=45" />
 </div>
 
 ## 🎯 Sobre Mí
